@@ -1,4 +1,4 @@
-export const imagens = [
+export const images = [
     'Alfa.png',
     'Beta.svg',
     'Gamma.png',
