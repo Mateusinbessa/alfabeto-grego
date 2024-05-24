@@ -9,7 +9,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <React.Fragment>
       <Toaster
         position='top-center'
-        style={{ marginTop: "130px" }}
+        className='toaster'
       />
       <Alfabeto />
     </React.Fragment>

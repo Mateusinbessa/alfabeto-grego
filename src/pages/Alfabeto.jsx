@@ -43,7 +43,7 @@ const Alfabeto = () => {
                     <X />
                     <p className="text-xl font-light">Você errou!</p>
                 </div>,
-                { duration: 500, }
+                { duration: 1000, }
             )
         }
     }

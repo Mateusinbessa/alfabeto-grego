@@ -18,6 +18,10 @@
   @apply bg-white shadow-xl rounded-lg w-[100%] h-[100%] p-10  flex flex-col justify-center items-center
 }
 
+.toaster {
+  @apply mt-[120px] max-sm:mt-[30px]
+}
+
 body {
   margin: 0;
   padding: 0;
